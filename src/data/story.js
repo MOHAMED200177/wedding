@@ -13,8 +13,8 @@ const colors = {
 };
 
 const story = {
-  groom: "Omar",
-  bride: "Salma",
+  groom: "Mohamed",
+  bride: "Sara",
   date: "1 · 06 · 2026",
   weddingDate: "2026-06-01T21:00:00",
   venue: "Royal palace hall",
