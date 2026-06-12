@@ -474,7 +474,7 @@ export default function PremiumProposal({ onComplete }) {
             <div className="line" />
           </div>
 
-          <p className="names">Omar &nbsp;&nbsp;&nbsp; Salma</p>
+          <p className="names">Mohamed &nbsp;&nbsp;&nbsp; Sara</p>
 
           <button className="enter-btn" onClick={handleExit}>
             ENTER
